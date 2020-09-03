@@ -15,3 +15,4 @@ RUN apt-get update \
 ENV DEBIAN_FRONTEND=dialog
 ENV CHROME_BIN=chromium
 RUN npm install -g @angular/cli
+    
